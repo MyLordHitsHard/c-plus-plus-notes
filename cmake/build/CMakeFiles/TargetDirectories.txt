@@ -1,3 +1,0 @@
-/workspaces/c-plus-plus-notes/cmake/build/CMakeFiles/firstTry.dir
-/workspaces/c-plus-plus-notes/cmake/build/CMakeFiles/edit_cache.dir
-/workspaces/c-plus-plus-notes/cmake/build/CMakeFiles/rebuild_cache.dir

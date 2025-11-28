@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/firstTry.dir/main.c++.o -o firstTry 
